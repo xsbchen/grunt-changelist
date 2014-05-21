@@ -1,0 +1,10 @@
+{
+  "name": "grunt-changelist",
+  "version": "0.0.3",
+  "description": "Grunt task for make changelist between trunk and HEAD tag",
+  "dependencies": {
+    "dirdiff": "^0.0.1"
+  },
+  "author": "xsbchen",
+  "license": "ISC"
+}
